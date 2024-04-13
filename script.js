@@ -15,7 +15,7 @@ noButton.addEventListener('mouseenter', () => {
 
 yesButton.addEventListener('click', (event) => {
     event.preventDefault();
-    window.open('https://api.whatsapp.com/send/?phone=902241****&text=I+Love+You+Too', '_blank');
+    window.open(' ');
 });
 
 
